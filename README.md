@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a student majoring in **Web Design and Application Development**. My ultimate goal is to become a modern **Full-stack Developer** who can craft seamless user experiences and build robust, scalable backend systems. Currently, I am on a dedicated journey of continuous learning and practical execution to turn my dream into reality.
+I am a student majoring in **Information Technology**. My ultimate goal is to become a modern **Full-stack Developer** who can craft seamless user experiences and build robust, scalable backend systems. Currently, I am on a dedicated journey of continuous learning and practical execution to turn my dream into reality.
 
 ---
 
